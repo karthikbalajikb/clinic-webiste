@@ -16,3 +16,23 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+body {
+  font-family: 'Jost', sans-serif;
+}
+
+.app {
+  background-color: #fbe163;
+  padding-bottom: 200px;
+}
+
+.app-container {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.nav-container {
+  position: sticky;
+  top: 0;
+  background-color: #fbe163;
+}
