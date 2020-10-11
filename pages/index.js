@@ -5,7 +5,7 @@ import Nav from "../components/nav";
 import DoctorsSVG from "../assets/doctors-with-bg.svg";
 import MaleDoctorSVG from "../assets/male-doctor.svg";
 import FemaleDoctorSVG from "../assets/female-doctor.svg";
-import WhatsappSVG from "../assets/Whatsapp.svg";
+import WhatsappSVG from "../assets/whatsapp.svg";
 
 export default function IndexPage() {
   return (

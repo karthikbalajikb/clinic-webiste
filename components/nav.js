@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import WhatsappSVG from "../assets/Whatsapp.svg";
+import WhatsappSVG from "../assets/whatsapp.svg";
 
 const links = [
   { href: "https://github.com/vercel/next.js", label: "GitHub" },
