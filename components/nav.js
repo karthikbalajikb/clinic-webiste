@@ -17,7 +17,7 @@ export default function Nav() {
           </Link>
         </li>
         <ul className="flex justify-between items-center space-x-4">
-            <Link href="https://wa.me/917200434397?text=hello">
+            <Link href="https://wa.me/919629103452?text=hello">
             <a className="inline-flex">
               <WhatsappSVG height="24px" />
               <h1 className="ml-4">9629103452</h1>

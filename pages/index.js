@@ -20,7 +20,7 @@ export default function IndexPage() {
             We care for your healthy life
           </h2>
           <ul className="text-center text-4xl m-10">
-            <Link href="https://wa.me/917200434397?text=hello">
+            <Link href="https://wa.me/919629103452?text=hello">
               <a className="inline-flex">
                 <WhatsappSVG height="54px" />
                 <h1 className="ml-4">9629103452</h1>
